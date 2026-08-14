@@ -2,6 +2,14 @@
 
 ---
 
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://komarev.com/ghpvc/?username=Yazdaninfo&icon=0" />
+  </a>
+</p>
+
+---
+
 ## 👋 hi I'm Yazdan
 I try to make a way around problems I face instead of fixing it temporarily so anyone can use them
 
@@ -28,4 +36,3 @@ built with node.js
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Yazdaninfo&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Yazdaninfo&icon=0)](https://visitcount.itsvg.in)
