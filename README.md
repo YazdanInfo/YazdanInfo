@@ -8,7 +8,7 @@ I try to make a way around problems I face instead of fixing it temporarily so a
 ---
 ## I'm currently working on [McAfk](https://github.com/YazdanInfo/McAfk)
 
-# a afk bot for minecraft that keeps your servers alive and keeps your farms loaded
+a afk bot for minecraft that keeps your servers alive and keeps your farms loaded
  built with node.js
 ---
 
