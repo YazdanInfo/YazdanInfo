@@ -7,12 +7,15 @@ I try to make a way around problems I face instead of fixing it temporarily so a
 
 ---
 
-## I'm currently working on [McAfk](https://github.com/YazdanInfo/McAfk)
+# I'm currently working on [McAfk](https://github.com/YazdanInfo/McAfk)
 
 a afk bot for minecraft that keeps your servers alive and keeps your farms loaded
- built with node.js
+
+built with node.js
+
 
 ---
+
 
 # 💻 Tech Stack:
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
