@@ -6,6 +6,10 @@
 I try to make a way around problems I face instead of fixing it temporarily so anyone can use them
 
 ---
+## my personal link tree site :
+### [YazdanInfo.github.io](https://YazdanInfo.github.io)
+
+---
 
 # I'm currently working on [McAfk](https://github.com/YazdanInfo/McAfk)
 
