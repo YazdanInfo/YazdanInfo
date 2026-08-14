@@ -2,9 +2,14 @@
 
 ---
 
-## 👋 hi I'm yazdan
+## 👋 hi I'm Yazdan
 I try to make a way around problems I face instead of fixing it temporarily so anyone can use them
 
+---
+## I'm currently working on [McAfk](https://github.com/YazdanInfo/McAfk)
+
+# a afk bot for minecraft that keeps your servers alive and keeps your farms loaded
+ built with node.js
 ---
 
 # 💻 Tech Stack:
