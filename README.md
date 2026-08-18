@@ -39,7 +39,6 @@ built with node.js
 </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Yazdaninfo&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Yazdaninfo&theme=dark&hide_border=false)<br/>
-
+![](https://github-readme-stats.shion.dev/api?username=Yazdaninfo&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yazdaninfo&theme=github_dark"/>
 ---
