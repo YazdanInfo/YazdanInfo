@@ -32,6 +32,8 @@ built with node.js
 
 # 💻 Tech Stack:
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![Node JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 <p align="center">
   <a href="https://github-readme-stats.shion.dev">
     <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Yazdaninfo&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
