@@ -37,6 +37,7 @@ built with node.js
 ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+![WispByte](https://img.shields.io/badge/WispByte-7B61FF?style=for-the-badge)
 <p align="center">
   <a href="https://github-readme-stats.shion.dev">
     <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Yazdaninfo&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
