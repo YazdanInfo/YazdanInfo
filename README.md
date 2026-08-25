@@ -35,6 +35,8 @@ built with node.js
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Node JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
 <p align="center">
   <a href="https://github-readme-stats.shion.dev">
     <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Yazdaninfo&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
