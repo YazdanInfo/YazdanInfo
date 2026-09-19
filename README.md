@@ -56,13 +56,10 @@
 
 ## 📊 GitHub stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YazdanInfo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="YazdanInfo's GitHub stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=YazdanInfo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="YazdanInfo's GitHub stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YazdanInfo&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YazdanInfo&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=YazdanInfo&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
