@@ -14,6 +14,16 @@
   🎓 Student &nbsp;•&nbsp; 🐧 Linux enthusiast &nbsp;•&nbsp; 🌐 Web dev in progress &nbsp;•&nbsp; 🎮 Minecraft tinkerer
 </p>
 
+<p align="center">
+  <a href="https://yazdaninfo.github.io"><!-- REPLACE: your real link tree URL -->
+    <img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=githubpages&logoColor=white" />
+  </a>
+  <a href="mailto:your@email.com"><!-- REPLACE: your real email -->
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=YazdanInfo&style=flat-square&color=blue" alt="Profile views" />
+</p>
+
 ---
 
 ## 🚀 Currently building
@@ -109,10 +119,6 @@
   <a href="https://github.com/YazdanInfo">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YazdanInfo&style=flat-square&color=blue" alt="Profile views" />
 </p>
 
 ---
