@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%2C%20I%27m%20Yazdan&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Fix%20the%20root%2C%20not%20the%20symptom&descSize=18&descAlignY=60" alt="Hi, I'm Yazdan — Fix the root, not the symptom" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%2C%20I%27m%20Yazdan&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Fix%20the%20root%2C%20not%20the%20symptom&descSize=18&descAlignY=60" alt="Hi, I'm Yazdan" width="100%">
 
 **Student · Linux enthusiast · Bot builder · Web dev in progress**
 
